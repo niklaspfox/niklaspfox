@@ -11,6 +11,7 @@ I build predictive models, analyze complex datasets, and turn data into actionab
 **Other:** Git, Docker, Linux, AWS (basics)
 
 ### 🚀 Featured Projects
+- **[Kaggle House Price Prediction](https://github.com/niklaspfox/HousePricePrediction)** —Linear regression model of house prices
 - **[F1 Pit Stop Prediction](https://github.com/niklaspfox/F1PitStopPredictionKaggle)** — Machine Learning model achieving strong accuracy on Formula 1 pit strategy.
 - **[Data Science Portfolio](https://github.com/niklaspfox/Data-Science-Statistics-Projects)** — Collection of statistical analysis and ML projects.
 - **[Gran Turismo 7 AI Trainer](https://github.com/niklaspfox/GT7AiTrainer)** — Reinforcement Learning bot for racing simulation.
