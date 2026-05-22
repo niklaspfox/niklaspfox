@@ -12,7 +12,7 @@ I build predictive models, analyze complex datasets, and turn data into actionab
 
 ### 🚀 Featured Projects
 - **[F1 Pit Stop Prediction](link)** — Machine Learning model achieving strong accuracy on Formula 1 pit strategy.
-- **[Data Science Portfolio](link)** — Collection of statistical analysis and ML projects.
+- **[Data Science Portfolio](https://github.com/niklaspfox/Data-Science-Statistics-Projects)** — Collection of statistical analysis and ML projects.
 - **[Gran Turismo 7 AI Trainer](link)** — Reinforcement Learning bot for racing simulation.
 
 ### 📫 Let's Connect
