@@ -16,8 +16,10 @@ I build predictive models, analyze complex datasets, and turn data into actionab
 - **[Gran Turismo 7 AI Trainer](link)** — Reinforcement Learning bot for racing simulation.
 
 ### 📫 Let's Connect
-- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- **Email**: your.email@domain.com
+- **LinkedIn**: [www.linkedin.com/in/niklas-pettersson-fox-494a09153](www.linkedin.com/in/niklas-pettersson-fox-494a09153
+
+e)
+- **Email**: niklaspfox7@gmail.com
 - **Location**: Oslo, Norway
 
 ---
