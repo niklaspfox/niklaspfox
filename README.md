@@ -1,3 +1,24 @@
-# F1PitStopPredictionKaggle
-# F1PitStopPredictionKaggle
-# niklaspfox
+# Hi there, I'm Niklas 👋
+
+**Aspiring Data Scientist / Machine Learning Engineer** based in Oslo, Norway.
+
+I build predictive models, analyze complex datasets, and turn data into actionable insights — with a particular passion for motorsport analytics.
+
+### 🛠 Technologies & Tools
+**Languages:** R | Python | SQL  
+**Data Science:** tidyverse, scikit-learn, pandas, ggplot2, TensorFlow/PyTorch  
+**Visualization:** ggplot2, Matplotlib, Seaborn, Tableau/Power BI  
+**Other:** Git, Docker, Linux, AWS (basics)
+
+### 🚀 Featured Projects
+- **[F1 Pit Stop Prediction](link)** — Machine Learning model achieving strong accuracy on Formula 1 pit strategy.
+- **[Data Science Portfolio](link)** — Collection of statistical analysis and ML projects.
+- **[Gran Turismo 7 AI Trainer](link)** — Reinforcement Learning bot for racing simulation.
+
+### 📫 Let's Connect
+- **LinkedIn**: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- **Email**: your.email@domain.com
+- **Location**: Oslo, Norway
+
+---
+*Currently open to junior / graduate roles in Data Science, Analytics, or ML.*
